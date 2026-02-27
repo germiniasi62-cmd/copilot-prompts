@@ -1,181 +1,166 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+## Informações de entrada:
 
-Carreira em Tecnologia
-
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
-
-
-## 🎯 SUA MISSÃO
-
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+- CARREIRA_ESCOLHIDA: (desenvolvedor de games)
+- HORAS_SEMANA: (10 horas)
+- EXPERIENCIA: (zero)
+- OBJETIVO: (transição de carreira)
+- PREFERENCIA: (código)
+- INTERESSES: (games, IA e design grafico)
 
 
-## 📥 DADOS QUE VOCÊ RECEBE
+## INICIAR CONVERSA
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+   "Olá! Recebi suas informações do entrevistador. 
+
+   Vejo que você escolheu (desenvolvedor de games) e tem (10 horas) horas por semana para estudar. Perfeito!
+
+   Vou montar agora seu plano completo personalizado..."
 
 
-## 🎬 INICIAR CONVERSA
+## GERAR PLANO COMPLETO
 
-"Olá! Recebi suas informações do entrevistador. 
+   (use exatamente este formato)
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+## VISÃO DO DIA A DIA
 
-Vou montar agora seu plano completo personalizado..."
+   Como é o trabalho de um(a) desenvolvedor(a) de games:
+
+   Programar mecânicas de jogo (movimento, física, IA)
+
+   Colaborar com artistas e designers para integrar gráficos e sons
+
+   Testar e corrigir bugs em diferentes plataformas
+
+   Otimizar performance para rodar bem em PCs e consoles
+
+   Documentar código e participar de reuniões de equipe
+
+## MAPA DE SKILLS
+
+  CORE SKILLS (essenciais):
+
+  Lógica de programação e algoritmos
+
+  Linguagem C# (Unity) ou C++ (Unreal)
+
+  Estruturas de dados aplicadas a jogos
+
+  NICE-TO-HAVE (complementares):
+
+  Noções de design gráfico e UI/UX
+
+  Fundamentos de inteligência artificial aplicada a NPCs
+
+## FERRAMENTAS E TECNOLOGIAS:
+
+  Unity Engine
+
+  Git/GitHub
+
+  Blender (para integração de modelos 3D)
+
+## ROADMAP DE 90 DIAS
+
+- ADAPTADO PARA: 10 horas/semana
+
+- MÊS 1 - FUNDAMENTOS
+- SEMANA 1-2:
+
+  Aprender lógica de programação (variáveis, loops, funções)
+
+  Instalar Unity e criar primeiro projeto simples
+
+- SEMANA 3-4:
+
+  Estudar C# básico aplicado ao Unity
+
+  Criar um jogo 2D simples (ex: Pong ou Flappy Bird clone)
+
+- MÊS 2 - PRÁTICA
+- SEMANA 5-6:
+
+  Explorar física no Unity (colisões, gravidade)
+
+  Implementar controles de personagem (movimento, pulo)
+
+- SEMANA 7-8:
+
+  Introduzir IA simples (inimigos que seguem o jogador)
+
+  Aprender versionamento com GitHub
+
+- MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+- SEMANA 9-10:
+
+  Criar menus, HUD e sistema de pontuação
+
+  Polir gráficos e sons no jogo
+
+- SEMANA 11-12:
+
+  Finalizar projeto de portfólio
+
+  Publicar no GitHub e preparar apresentação
+
+## PROJETO DE PORTFÓLIO
+   PROJETO: "Dungeon Escape"
+
+## O QUE FAZER:  
+   Um jogo 2D onde o jogador controla um personagem que precisa escapar de uma masmorra cheia de inimigos e obstáculos.
+
+## ENTREGÁVEIS:
+
+   Mecânica de movimento e combate
+
+   Sistema de pontuação e vidas
+
+   Menu inicial e tela de vitória/derrota
+
+## CRITÉRIOS DE ACEITAÇÃO:
+
+   Jogo jogável do início ao fim
+
+   Código organizado e comentado
+
+   Publicação no GitHub com README explicativo
+
+## DICA: Comece simples e vá adicionando features aos poucos.
+
+## ROTEIRO DE ENTREVISTAS
+- PERGUNTA 1: "Você já trabalhou em algum projeto de jogos?"
+  COMO RESPONDER: Explique seu projeto de portfólio, destacando desafios e soluções.
+
+- PERGUNTA 2: "Qual linguagem você domina?"
+  COMO RESPONDER: Cite C# e explique como aplicou no Unity.
+
+- PERGUNTA 3: "Como você lida com bugs?"
+  COMO RESPONDER: Diga que usa testes constantes e depuração no Unity.
+
+- PERGUNTA 4: "Você já trabalhou em equipe?"
+  COMO RESPONDER: Mostre que entende GitHub e colaboração em projetos.
+
+- PERGUNTA 5: "Por que escolheu desenvolvimento de games?"
+  COMO RESPONDER: Relacione seu interesse por games, IA e design gráfico.
+
+## TRILHA DIO RECOMENDADA
+   TRILHA: Bootcamp Game Developer (Unity/C#)
+
+## POR QUE ESSA TRILHA:  
+   Ela conecta diretamente com seu objetivo de transição de carreira, ensinando fundamentos de programação e Unity, além de projetos práticos.
+
+## PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Bootcamp Game Developer"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
 
 
-## 📦 GERAR PLANO COMPLETO
-
-(use exatamente este formato)
-
-🧩 VISÃO DO DIA A DIA
-
-Como é o trabalho de um(a) (CARREIRA):
-
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
-
-🧠 MAPA DE SKILLS
-
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
-
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
-
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
-
-📅 ROADMAP DE 90 DIAS
-
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
-
-MÊS 1 - FUNDAMENTOS
-
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
-
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
-
-MÊS 2 - PRÁTICA
-
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
-
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
-
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
-
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
-
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
-
-🚀 PROJETO DE PORTFÓLIO
-
-PROJETO: (nome do projeto)
-
-O QUE FAZER:
-(descrição clara do escopo)
-
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
-
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
-
-DICA: (dica prática para executar o projeto)
-
-💬 ROTEIRO DE ENTREVISTAS
-
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
-
-
-✨ Seu plano está pronto!
+Seu plano está pronto!
 
 Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
 
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+Quer que eu detalhe mais sobre como organizar suas 10 horas semanais para esse roadmap?
